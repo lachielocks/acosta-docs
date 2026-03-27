@@ -1,21 +1,21 @@
-export const url = 'https://rubix-documents.vercel.app'
+export const url = 'https://heyacosta.com'
 export const siteicon = '/icon.png'
 
 export const gtm = 'GTM-XXXXXXX'
-export const gtmconnected = true
+export const gtmconnected = false
 
-export const sitename = 'Documents'
+export const sitename = 'Acosta AI'
 export const description =
-  'This comprehensive documentation template, crafted with Next.js and available as open-source, delivers a sleek and responsive design, tailored to meet all your project documentation requirements.'
-export const keywords = ['Next.js', 'documentation', 'Rubix Studios', 'open source', 'SEO']
+  'Acosta AI is an intelligent AI assistant built by Transnology. Powered by the Acosta 1 model system with smart routing, available at heyacosta.com.'
+export const keywords = ['Acosta AI', 'AI assistant', 'Transnology', 'heyacosta.com', 'Acosta 1']
 export const urlimage = '/images/og-image.png'
-export const imagealt = 'Rubix Studios Documentation'
-export const twitterhandle = '@RubixStudios'
+export const imagealt = 'Acosta AI'
+export const twitterhandle = '@heyacosta'
 
-export const companyname = 'Rubix Studios'
-export const companylink = 'https://rubixstudios.com.au'
+export const companyname = 'Transnology'
+export const companylink = 'https://transnology.co'
 
-export const branding = true
+export const branding = false
 export const rightsidebar = true
 export const feedbackedit = true
 export const tableofcontent = true
