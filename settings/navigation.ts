@@ -6,12 +6,12 @@ export const Navigations = [
     href: `/docs${PageRoutes[0].href}`,
   },
   {
-    title: 'Transnology',
-    href: 'https://transnology.co',
+    title: 'Go to Platform',
+    href: 'https://platform.acosta-ai.com',
     external: true,
   },
 ]
 
 export const GitHubLink = {
-  href: 'https://heyacosta.com',
+  href: '',
 }
